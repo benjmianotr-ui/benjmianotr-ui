@@ -1,6 +1,6 @@
 # Benjamin Osmar
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Python • SQL • Banco de Dados**
+**Estudante de Análise e Desenvolvimento de Sistemas | Python • SQL • Banco de Dados • IA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-osmar-7ab027337/)
 
