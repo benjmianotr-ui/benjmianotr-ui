@@ -1,5 +1,4 @@
-## Benjamin Osmar
-# Guilherme Souza Lima
+# Benjamin Osmar
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Python • SQL • Banco de Dados**
 
