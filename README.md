@@ -47,7 +47,3 @@ Valorizo a comunicação clara, o trabalho em equipamento e a disposição para 
  Ampliar os estudos de autenticação, autorização e validação no back-end. Aprofundar o desenvolvimento de APIs e a integração de aplicações com bancos de dados.
 - Ampliar os estudos de autenticação, autorização e validação no back-end.
 - Ampliar a prática de testes e documentação técnica.
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/guilherme-souza-2b5202297/) · [Repositórios sem GitHub](https://github.com/Guilherme-DEV-ALT?tab=repositories)
