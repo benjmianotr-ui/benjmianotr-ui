@@ -1,25 +1,21 @@
 ## Benjamin Osmar
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?benjmianotr-ui=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Estatísticas do GitHub de Anurag](https://github-stats-extended.vercel.app/api?benjmianotr-ui=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<dividir estilo="exibir: bloco_inline"><br>
+  <imagem alinhar="centro" alt="Rafa-Js" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <imagem alinhar="centro" alt="Rafa-Ts" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <imagem alinhar="centro" alt="Rafa-React" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <imagem alinhar="centro" alt="Rafa-HTML" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <imagem alinhar="centro" alt="Rafa-CSS" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <imagem alinhar="centro" alt="Rafa-Python" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <imagem alinhar="centro" alt="Rafa-Csharp" alta="30" largura="40" fonte="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</dividir>
   
   ##
  
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<dividir> 
+  <a href = "mailto:benjmian.otr@gmail.com"><imagem fonte="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logotipo=gmail&logoColor=branco" alto="_em branco"></a>
+  <a href="https://www.linkedin.com/in/benjamin-osmar-7ab027337/" alto="_em branco"><imagem fonte="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logotipo=linkedin&logoColor=branco" alto="_em branco"></a> 
   
-</div>
+</dividir>
