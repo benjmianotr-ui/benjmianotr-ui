@@ -45,10 +45,10 @@ Valorizo a comunicação clara, o trabalho em equipamento e a disposição para 
 - Aprofundar o desenvolvimento de APIs e a integração de aplicações com bancos de dados.
 - Ampliar a prática de testes e documentação técnica.
 
-<dividir alinhar/>"centro">
-  <imagem
-    fonte="https://capsule-render.vercel.app/api?type=waving&cor=0:06B6D4,50:312E81,100:0B1020&altura=100&seção=rodapé"
+<div alinhar/>"centro">
+  <imag
+    fonte="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0B1020&height=100&section=footer"
     alt=""
     largura="100%"
   />
-</dividir>
+</div>
