@@ -6,13 +6,11 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco de desenvolvimento em back-end, banco de dados e APIs. Gosto de entender a lógica por trás de uma aplicação e transformar o que aprendo em projetos que consigo explicar, revisar e melhorar.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end, banco de dados e IA. Gosto de entender a lógica por trás de uma aplicação e transformar o que aprendo em projetos que consigo explicar, revisar e melhorar.
 
-Tendo colocado meus estudos em prática com Python, modelagem de dados, desenvolvimento web e exercícios de lógica em diferentes línguas. Meus projetos passam por conversão e persistência de dados, levantamento de requisitos, registros de negação, interfaces interativas e uma plataforma de exercícios de programação.
+Venho colocando meus estudos em prática com Python, IA, desenvolvimento web e exercícios de lógica em diferentes linguagens de programação. Meus projetos envolvem interfaces interativas e uma plataforma de exercícios de programação.
 
-Também colaborativo no FinView, um projeto de gestão financeira para aqueles negativos com Python, Django e integração com IA.
-
-Valorizo a comunicação clara, o trabalho em equipamento e a disposição para aprender. Busco uma oportunidade na área de tecnologia para contribuir com projetos reais e evoluir tecnicamente.
+Valorizo a comunicação clara, o trabalho em equipe e a disposição para aprender. Busco uma oportunidade na área de tecnologia para contribuir com projetos reais e evoluir tecnicamente.
 
 ## Tecnologias e conhecimentos
 
@@ -29,20 +27,20 @@ Valorizo a comunicação clara, o trabalho em equipamento e a disposição para 
 
 **Análise e Desenvolvimento de Sistemas — Cursando**
 
-- Python Essentials 1 — Academia de Redes Cisco.
-- Excel Intermediário — Santander Open Academy.
-- Inglês Intermediário — Alura.
-- espanhol avançado — segunda lingua
+- Python Essentials 1 — Cisco Networking Academy
+- Excel Intermediário — Santander Open Academy
+- Inglês Intermediário — Alura
+- Espanhol avançado — segunda língua
 
 ## Competências pessoais
 
-- **Trabalho em equipamento:** colaboração em atividades e projetos acadêmicos.
+- **Trabalho em equipe:** colaboração em atividades e projetos acadêmicos.
 - **Aprendizado contínuo:** consulta à documentação e aplicação prática dos estudos.
 - **Organização:** conciliação entre trabalho, faculdade e desenvolvimento de projetos.
 
 ## Próximos passos de aprendizagem
 
-- Aprofundar SQL, consultas e modelagem de bancos relacionados.
- Ampliar os estudos de autenticação, autorização e validação no back-end. Aprofundar o desenvolvimento de APIs e a integração de aplicações com bancos de dados.
+- Aprofundar SQL, consultas e modelagem de bancos de dados relacionais.
 - Ampliar os estudos de autenticação, autorização e validação no back-end.
+- Aprofundar o desenvolvimento de APIs e a integração de aplicações com bancos de dados.
 - Ampliar a prática de testes e documentação técnica.
