@@ -1,6 +1,7 @@
 <dividir alinhar="centro">
-  <a href="https://git.io/typing-svg"><imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&tamanho=25&duração=2000&pausa=1000&cor=3B7EA1&centro=verdadeiro&vCenter=verdadeiro&largura=435&linhas=Benjamin+Osmar" alt="Digitando SVG" /></a>
-  </a>
+  <a href="https://git.io/typing-svg">
+    <imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&tamanho=25&duração=2000&pausa=1000&cor=3B7EA1&centro=verdadeiro&vCenter=verdadeiro&largura=435&linhas=Benjamin+Osmar" alt="Digitando SVG" />
+    </a>
 </dividir>
 
 <imagem alinhar="centro" alt="" fonte="./src/header-gif.gif">
