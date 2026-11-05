@@ -15,7 +15,7 @@
   ##
  
 <dividir> 
-  <a href = "mailto:benjmian.otr@gmail.com"><imagem fonte="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logotipo=gmail&logoColor=branco" alto="_em branco"></a>
+  <a href = "mailto: benjmian.otr@gmail.com"><imagem fonte="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logotipo=gmail&logoColor=branco" alto="_em branco"></a>
   <a href="https://www.linkedin.com/in/benjamin-osmar-7ab027337/" alto="_em branco"><imagem fonte="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logotipo=linkedin&logoColor=branco" alto="_em branco"></a> 
   
 </dividir>
