@@ -50,10 +50,10 @@ Estou constantemente atualizando meus conhecimentos e trabalhando novos desafios
 <dividir estilo="alinhamento de texto: centro;" alinhar="centro">
   <h3>* Estatísticas do GitHub *</h3>
   <br>
-  <imagem fonte="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&ocultar_título=verdadeiro&maisrar_ícones=verdadeiro&incluir_todos_commits=falso&contagem_privada=verdadeiro&linha_altura=25&ocultar=problemas&bg_color=000&título_cor=FF00F6&cor_texto=FFF&raio_borda=3&border_color=36123c&ícone_cor=FF00F6&tema=alegre" alt="Estatísticas do GitHub">
+  <imagem fonte="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=benjmianotr-ui&ocultar_título=verdadeiro&maisrar_ícones=verdadeiro&incluir_todos_commits=falso&contagem_privada=verdadeiro&linha_altura=25&ocultar=problemas&bg_color=000&título_cor=FF00F6&cor_texto=FFF&raio_borda=3&border_color=36123c&ícone_cor=FF00F6&tema=alegre" alt="Estatísticas do GitHub">
 
   <a href="https://github.com/mari4souza/github-readme-stats">
-    <imagem fonte="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&linha_altura=10&largura_do cartão=290&layout=compacto&ocultar_título=falso&contagem_privada=verdadeiro&contagem_langs=4&maisrar_ícones=verdadeiro&título_cor=FF00F6&ocultar=html,scss,menos&bg_color=000&texto_cor=8B8B8B&raio_borda=3&border_color=561760&contagem_privada=verdadeiro" alt="Idiomas mais usados">
+    <imagem fonte="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=benjmianotr-ui&linha_altura=10&largura_do cartão=290&layout=compacto&ocultar_título=falso&contagem_privada=verdadeiro&contagem_langs=4&maisrar_ícones=verdadeiro&título_cor=FF00F6&ocultar=html,scss,menos&bg_color=000&texto_cor=8B8B8B&raio_borda=3&border_color=561760&contagem_privada=verdadeiro" alt="Idiomas mais usados">
   </a>
 </dividir>
 
@@ -61,7 +61,7 @@ Estou constantemente atualizando meus conhecimentos e trabalhando novos desafios
 #
 
 <imagem alinhar="centro">
-  <fonte mídia="(prefere esquema de núcleos: escuro)" conjunto de origem="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <fonte mídia="(prefere esquema de núcleos: luz)" conjunto de origem="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <imagem alinhar="centro" alt="animação de cobra de grau de contribuição do github" fonte="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <fonte mídia="(prefere esquema de núcleos: escuro)" conjunto de origem="https://raw.githubusercontent.com/benjmianotr-ui/benjmianotr-ui/output/github-contribution-grid-snake-dark.svg">
+  <fonte mídia="(prefere esquema de núcleos: luz)" conjunto de origem="https://raw.githubusercontent.com/benjmianotr-ui/benjmianotr-ui/output/github-contribution-grid-snake-dark.svg">
+  <imagem alinhar="centro" alt="animação de cobra de grau de contribuição do github" fonte="https://raw.githubusercontent.com/benjmianotr-ui/benjmianotr-ui/output/github-contribution-grid-snake.svg">
   </imagem>
