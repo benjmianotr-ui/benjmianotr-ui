@@ -6,11 +6,11 @@
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end, banco de dados e IA. Gosto de entender a lógica por trás de uma aplicação e transformar o que aprendo em projetos que consigo explicar, revisar e melhorar.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end, banco de dados e IA. Gosto de entrar na lógica por trás de uma aplicação e transformar o que aprender em projetos que consigo explicar, revisar e melhorar.
 
-Venho colocando meus estudos em prática com Python, IA, desenvolvimento web e exercícios de lógica em diferentes linguagens de programação. Meus projetos envolvem interfaces interativas e uma plataforma de exercícios de programação.
+Venho colocando meus estudos em prática com Python, IA, desenvolvimento web e exercícios de lógica em diferentes línguas de programação. Meus projetos envolvem interfaces interativas e uma plataforma de exercícios de programação.
 
-Valorizo a comunicação clara, o trabalho em equipe e a disposição para aprender. Busco uma oportunidade na área de tecnologia para contribuir com projetos reais e evoluir tecnicamente.
+Valorizo a comunicação clara, o trabalho em equipamento e a disposição para aprender. Busco uma oportunidade na área de tecnologia para contribuir com projetos reais e evoluir tecnicamente.
 
 ## Tecnologias e conhecimentos
 
@@ -27,14 +27,14 @@ Valorizo a comunicação clara, o trabalho em equipe e a disposição para apren
 
 **Análise e Desenvolvimento de Sistemas — Cursando**
 
-- Python Essentials 1 — Cisco Networking Academy
+- Python Essentials 1 — Academia de Redes Cisco
 - Excel Intermediário — Santander Open Academy
 - Inglês Intermediário — Alura
 - Espanhol avançado — segunda língua
 
 ## Competências pessoais
 
-- **Trabalho em equipe:** colaboração em atividades e projetos acadêmicos.
+- **Trabalho em equipamento:** colaboração em atividades e projetos acadêmicos.
 - **Aprendizado contínuo:** consulta à documentação e aplicação prática dos estudos.
 - **Organização:** conciliação entre trabalho, faculdade e desenvolvimento de projetos.
 
@@ -44,3 +44,11 @@ Valorizo a comunicação clara, o trabalho em equipe e a disposição para apren
 - Ampliar os estudos de autenticação, autorização e validação no back-end.
 - Aprofundar o desenvolvimento de APIs e a integração de aplicações com bancos de dados.
 - Ampliar a prática de testes e documentação técnica.
+
+<dividir alinhar/>"centro">
+  <imagem
+    fonte="https://capsule-render.vercel.app/api?type=waving&cor=0:06B6D4,50:312E81,100:0B1020&altura=100&seção=rodapé"
+    alt=""
+    largura="100%"
+  />
+</dividir>
