@@ -5,9 +5,8 @@
     width="100%"
   />
 </div>
-
 <div align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Python • SQL • Banco de Dados • IA
+  <h3> Estudante de Análise e Desenvolvimento de Sistemas | Python • SQL • Banco de Dados • IA </h3>
 </div>
 
 
