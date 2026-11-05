@@ -1,67 +1,25 @@
-<dividir alinhar="centro">
-  <a href="https://git.io/typing-svg">
-    <imagem fonte="https://readme-typing-svg.demolab.com?font=Fira+Code&tamanho=25&duração=2000&pausa=1000&cor=3B7EA1&centro=verdadeiro&vCenter=verdadeiro&largura=435&linhas=Benjamin+Osmar" alt="Digitando SVG" />
-    </a>
-</dividir>
+## Benjamin Osmar
 
-<imagem alinhar="centro" alt="" fonte="./src/header-gif.gif">
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?benjmianotr-ui=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
-#
-
-<p alinhar="centro">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e trabalhando novos desafios na área de tecnologia. Tendo pago por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
   
-#
-
-<imagem alinhar="certo" alt="" alta="190px" fonte="./src/study.gif">
-
-<h3 alinhar="esquerda">Conecte-se amigo!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](benjmian.otr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/benjamin-osmar-7ab027337/)
-
-
-<h3 alinhar="esquerda">Minha pilha ~</h3>
-
-<dividir alinhar="esquerda">
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alta="25" alt="logotipo html5"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alta="25" alt="logotipo css3"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alta="25" alt="logotipo javascript"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alta="25" alt="logotipo React"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alta="25" alt="logotipo Java"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alta="25" alt="logotipo da primavera"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alta="25" alt="logotipo c"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alta="25" alt="logotipo mysql"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alta="25" alt="logotipo postgresql"  />
-  <imagem largura="8" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alta="25" alt="logotipo do docker"  />
-</dividir>
-
-#
-
-<dividir estilo="alinhamento de texto: centro;" alinhar="centro">
-  <h3>* Estatísticas do GitHub *</h3>
-  <br>
-  <imagem fonte="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=benjmianotr-ui&ocultar_título=verdadeiro&maisrar_ícones=verdadeiro&incluir_todos_commits=falso&contagem_privada=verdadeiro&linha_altura=25&ocultar=problemas&bg_color=000&título_cor=FF00F6&cor_texto=FFF&raio_borda=3&border_color=36123c&ícone_cor=FF00F6&tema=alegre" alt="Estatísticas do GitHub">
-
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <imagem fonte="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=benjmianotr-ui&linha_altura=10&largura_do cartão=290&layout=compacto&ocultar_título=falso&contagem_privada=verdadeiro&contagem_langs=4&maisrar_ícones=verdadeiro&título_cor=FF00F6&ocultar=html,scss,menos&bg_color=000&texto_cor=8B8B8B&raio_borda=3&border_color=561760&contagem_privada=verdadeiro" alt="Idiomas mais usados">
-  </a>
-</dividir>
-
-
-#
-
-<imagem alinhar="centro">
-  <fonte mídia="(prefere esquema de núcleos: escuro)" conjunto de origem="https://raw.githubusercontent.com/benjmianotr-ui/benjmianotr-ui/output/github-contribution-grid-snake-dark.svg">
-  <fonte mídia="(prefere esquema de núcleos: luz)" conjunto de origem="https://raw.githubusercontent.com/benjmianotr-ui/benjmianotr-ui/output/github-contribution-grid-snake-dark.svg">
-  <imagem alinhar="centro" alt="animação de cobra de grau de contribuição do github" fonte="https://raw.githubusercontent.com/benjmianotr-ui/benjmianotr-ui/output/github-contribution-grid-snake.svg">
-  </imagem>
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
