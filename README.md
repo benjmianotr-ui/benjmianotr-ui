@@ -1,6 +1,15 @@
-# Benjamin Osmar
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:06B6D4&height=190&section=header&text=BENJAMIN+OSMAR&fontSize=54&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36"
+    alt="Banner animado com o nome Matheus"
+    width="100%"
+  />
+</div>
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Python • SQL • Banco de Dados • IA**
+<div align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas | Python • SQL • Banco de Dados • IA
+</div>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-osmar-7ab027337/)
 
@@ -11,6 +20,19 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end, b
 Venho colocando meus estudos em prática com Python, IA, desenvolvimento web e exercícios de lógica em diferentes línguas de programação. Meus projetos envolvem interfaces interativas e uma plataforma de exercícios de programação.
 
 Valorizo a comunicação clara, o trabalho em equipamento e a disposição para aprender. Busco uma oportunidade na área de tecnologia para contribuir com projetos reais e evoluir tecnicamente.
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    NÚCLEO DE INTELIGÊNCIA                    ║
+╠══════════════════════════════════════════════════════════════╣
+║ USUÁRIA      : Benjamin Osmar                                ║
+║ PERFIL       : ESTUDANTE ADS                                 ║
+║ FOCO         : DESENVOLVIMENTO DE SISTEMAS/ IA               ║
+║ INTERESSES   : TECNOLOGIA • IA • SISTEMAS • INOVAÇÃO         ║
+║ STATUS       : [ ONLINE ]                                    ║
+║ VERSÃO       : 2026                                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ## Tecnologias e conhecimentos
 
