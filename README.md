@@ -26,29 +26,14 @@ Valorizo a comunicação clara, o trabalho em equipamento e a disposição para 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| Área | Prática e conhecimentos em desenvolvimento |
-| --- | --- |
-| Python | Funções, organização em módulos, validação de entradas, tratamento de erros e manipulação de arquivos JSON e CSV. |
-| Banco de dados | Estudos de SQL, modelo conceitual, diagramas entidade-relacionamento, cardinalidades e dicionário de dados; persistência e migrações com SQLite no LabCódigo, contato com o ORM do Django e PostgreSQL no FinView e estudos de bancos de documentos com MongoDB. O projeto utiliza Python e Django no back-end, templates HTML, CSS e JavaScript na interface, suporte a SQLite e PostgreSQL e integração com a API da Groq. Inclui configuração de deploy no Render com Gunicorn e WhiteNoise.
-| Desenvolvimento web | Estruturação com HTML, estilos com CSS e interações com JavaScript. |
-| APIs de back-end e | API HTTP em Python, integração entre front-end e back-end, validação de solicitações e persistência do progresso no LabCódigo; vivência em projeto colaborativo com Django, rotas, views, formulários e registros de negação no FinView. |
-| Autenticação | Cadastro, login, sessões, recuperação de senha, hashes de senhas e proteção CSRF no LabCódigo; contato com autenticação e recuperação de senha do Django no FinView. |
-| Integração com IA | Contato com a API do Groq no FinView para análises financeiras e sugestões de classificação de movimentos, com contexto da aplicação e respostas estruturadas em JSON. Projeto colaborativo do qual particípio, voltado à gestão financeira de pequenos negativos. Permite registrar receitas e despesas, acompanhar indicadores em um painel, definir metas financeiras e importar movimentos com revisão antes da confirmação. Integra IA para analisar os dados financeiros e sugerir a classificação das movimentos.
-| Lógica de programação | Condições, leis de repetição, decomposição de problemas e validações; exercícios e soluções comentadas em Python, C, C#, Java e JavaScript no LabCódigo. |
-| Computação em novembro | Estudos de serviços e fundamentos de computação em nuvem com Azure. |
-| Aplicações implantares | Contato com configuração de implantação do FinView no Render, incluindo variáveis de ambiente, Gunicorn, WhiteNoise e conexão com PostgreSQL. |
-| Análise de dados | Estudos de organização e visualização de dados, relatórios e dashboards com Power BI. |
-| Contêineres e organização | Imagens e execução isolada de código com Docker no LabCódigo; estudos de pesquisa de conteúdos com Kubernetes. |
-| Testes e integração contínua | Testes automatizados de API, autenticação, persistência e execução de exercícios; verificações de navegador com Playwright e integração contínua com GitHub Actions no LabCódigo. |
-| Versionamento | Uso de Git e GitHub para organizar código e documentar projetos. |
-
 ## Formação e cursos
 
 **Análise e Desenvolvimento de Sistemas — Cursando**
 
 - Python Essentials 1 — Academia de Redes Cisco.
 - Excel Intermediário — Santander Open Academy.
-- Inglês Intermediário — Dom Felipe.
+- Inglês Intermediário — Alura.
+- espanhol avançado — segunda lingua
 
 ## Competências pessoais
 
